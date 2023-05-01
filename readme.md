@@ -1,6 +1,7 @@
 ### Requirements
  - **never** use Windows (however, I haven't tested there)
  - Linux (e.g. Ubuntu) or MacOS laptop with working bluetooth module
+ - some terminal/console/shell experience
  - Python 3.9 or 3.10 installed
 
 ### How to
