@@ -14,7 +14,8 @@
 
 ### Example
 ```shell
-$ git clone <url_here>
+$ mkdir ~/jk && cd ~/jk 
+$ git clone https://github.com/ech0-py/jkbms_password_retrieve_tool.git
 $ python -m venv ~/venv_jk
 $ source ~/venv_jk/bin/activate
 (venv_jk)$ pip install -U pip setuptools wheel bleak==0.20.2
